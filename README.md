@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharv
 - 👀 I’m interested in doing coding tasks
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning c language along with python
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 To reach me : atharv.work01@gmail.com
 
